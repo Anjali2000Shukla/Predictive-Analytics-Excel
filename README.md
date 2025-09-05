@@ -3,6 +3,7 @@
 This repository contains an Excel-based data analysis project focused on predicting restaurant tip amounts. The project demonstrates how to apply data cleaning, categorical encoding, pivot tables, correlation, and multiple regression using Excel’s Data Analysis Toolpak.
 
 📌 Project Overview
+
 The goal of this project is to analyze a restaurant tips dataset and build a regression model in Excel that predicts the tip amount based on factors such as:
 * Total Bill
 * Gender (Sex)
